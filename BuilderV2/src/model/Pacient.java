@@ -9,6 +9,14 @@ public class Pacient {
 
     protected Pacient() {
     }
+    public Pacient(String nume, boolean arePatRabatabil, boolean areMicDejunInclus, boolean arePapuciCamera, boolean areHalatInterior) {
+        this.nume = nume;
+        this.arePatRabatabil = arePatRabatabil;
+        this.areMicDejunInclus = areMicDejunInclus;
+        this.arePapuciCamera = arePapuciCamera;
+        this.areHalatInterior = areHalatInterior;
+    }
+
 
     protected void setNume(String nume) {
         this.nume = nume;
@@ -30,13 +38,6 @@ public class Pacient {
         this.areHalatInterior = areHalatInterior;
     }
 
-    public Pacient(String nume, boolean arePatRabatabil, boolean areMicDejunInclus, boolean arePapuciCamera, boolean areHalatInterior) {
-        this.nume = nume;
-        this.arePatRabatabil = arePatRabatabil;
-        this.areMicDejunInclus = areMicDejunInclus;
-        this.arePapuciCamera = arePapuciCamera;
-        this.areHalatInterior = areHalatInterior;
-    }
 
     @Override
     public String toString() {
