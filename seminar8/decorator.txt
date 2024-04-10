@@ -1,0 +1,10 @@
+ Compania dorește să adauge pe biletul printat un mesaj de susținere a echipei gazde. Compania
+dorește să adauge o nouă funcționalitate, astfel încât, la rezervarea biletului să fie printat acest
+mesaj doar atunci când joacă echipa locală. Pentru restul meciurilor biletele rămân la fel.
+
+Atunci cand joaca echipa locala se aplica un discount epntru toata lumea de 10%.
+Atunci cand joaca echipa nationala pe terenul respectiv se printeaza pe bilet un mesaj de sustinere a echipei nationale si nu a echipei locale.
+
+
+decorator = adaugare de noi functionalitati pentru o clasa fara sa mostenim/modificam acea clasa
+decorator, prin interfata comuna cu clasa pe care vrem sa o modificam, ii adauga functionalitate
