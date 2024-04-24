@@ -11,10 +11,13 @@
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/inner class.iml" filepath="$PROJECT_DIR$/BuilderV2/inner class.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar10_chain/seminar10_chain.iml" filepath="$PROJECT_DIR$/seminar10_chain/seminar10_chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar10_observer/seminar10_observer.iml" filepath="$PROJECT_DIR$/seminar10_observer/seminar10_observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8/seminar8_decorator.iml" filepath="$PROJECT_DIR$/seminar8/seminar8_decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8_proxy/seminar8_proxy.iml" filepath="$PROJECT_DIR$/seminar8_proxy/seminar8_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar9/seminar9.iml" filepath="$PROJECT_DIR$/seminar9/seminar9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar10/strategy.iml" filepath="$PROJECT_DIR$/seminar10/strategy.iml" />
     </modules>
   </component>
 </project>
